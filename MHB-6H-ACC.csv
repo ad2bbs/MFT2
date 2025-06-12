@@ -1,0 +1,27 @@
+legacy_switch,interface,vlan_id,neighbor_name,neighbor_interface
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,Vlan1,,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,Vlan252,,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/1,712,MHB-6-6H-AP02.xcmmc.nhs.uk,Gig 0
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/2,712,MHB-6-6H-AP03.xcmmc.nhs.uk,Gig 0
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/3,712,MHB-6-6H-AP05.xcmmc.nhs.uk,Gig 0
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/4,712,MHB-6-6H-AP09.xcmmc.nhs.uk,Gig 0
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/5,712,MHB-6-6H-AP11.xcmmc.nhs.uk,Gig 0
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/6,712,MHB-6-6H-AP13.xcmmc.nhs.uk,Gig 0
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/7,712,MHB-6-6H-AP15.xcmmc.nhs.uk,Gig 0
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/8,712,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/9,168,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/10,168,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/11,712,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/12,159,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/13,159,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/14,159,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/15,159,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/16,159,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/17,712,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/18,159,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/19,159,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/20,712,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/21,159,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/22,159,,
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/24,trunk,MHB-6H-WIFI-Switch1.xcmmc.nhs.uk,Gig 1/0/24
+CEN-MHB-6H-ACCSW.xcmmc.nhs.uk,GigabitEthernet1/0/28,1,,
