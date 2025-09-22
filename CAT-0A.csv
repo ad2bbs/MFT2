@@ -1,0 +1,13 @@
+legacy_switch,interface,vlan_id,neighbor_name,neighbor_interface
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,Vlan1,,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,Vlan252,,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,Vlan254,,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,GigabitEthernet1/0/3,330,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,GigabitEthernet1/0/4,330,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,GigabitEthernet1/0/10,330,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,GigabitEthernet1/0/11,330,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,GigabitEthernet1/0/16,330,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,GigabitEthernet1/0/18,330,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,GigabitEthernet1/0/19,330,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,GigabitEthernet1/0/20,330,,
+CEN-CAT-0A-ACCSW-1.xcmmc.nhs.uk,GigabitEthernet1/0/26,trunk,CARE-ORC-NUR-0A-ASW-01.care.local,TwentyFiveGigE1/1/3
