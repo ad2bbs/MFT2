@@ -1,0 +1,6 @@
+legacy_switch,interface,vlan_id,neighbor_name,neighbor_interface
+CSB3-2A-Switch01.xcmmc.nhs.uk,Vlan1,,,
+CSB3-2A-Switch01.xcmmc.nhs.uk,Vlan253,,,
+CSB3-2A-Switch01.xcmmc.nhs.uk,GigabitEthernet2/0/1,607,,
+CSB3-2A-Switch01.xcmmc.nhs.uk,GigabitEthernet2/0/27,trunk,CARE-ORC-DN2-DST-03.xcmmc.nhs.uk,TwentyFiveGigE1/0/4
+CSB3-2A-Switch01.xcmmc.nhs.uk,Port-channel9,trunk,,
