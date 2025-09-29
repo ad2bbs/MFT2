@@ -1,0 +1,266 @@
+legacy_switch,interface,vlan_id,neighbor_name,neighbor_interface
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,Vlan1,,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,Vlan252,,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/1,715,CSB2-2-4A-AP02.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/2,715,CSB2-2-4A-AP04.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/3,715,CSB2-2-4A-AP07.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/4,715,CSB2-1-4A-AP08.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/5,715,CSB2-3-4A-AP02.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/6,715,CSB2-3-4A-AP04.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/7,715,CSB2-3-4A-AP06.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/8,715,CSB2-3-4A-AP08.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/9,715,CSB2-0-4A-AP02.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/10,715,CSB2-2-4A-AP09.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/11,715,CSB2-0-4A-AP06.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/12,715,CSB2-0-4A-AP08.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/13,715,CSB2-1-4A-AP02.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/14,715,CSB2-1-4A-AP04.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/15,715,CSB2-1-4A-AP06.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/17,77,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/19,77,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/20,715,CSB2-3-4A-AP09.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/23,77,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet1/0/24,trunk,CSB2-4A-Switch10,Gig 0/1
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/1,715,CSB2-2-4A-AP01.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/2,715,CSB2-2-4A-AP03.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/3,715,CSB2-2-4A-AP05.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/4,715,CSB2-2-4A-AP06.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/5,715,CSB2-3-4A-AP01.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/6,715,CSB2-3-4A-AP03.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/7,715,CSB2-3-4A-AP05.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/8,715,CSB2-3-4A-AP07.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/9,715,CSB2-0-4A-AP01.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/10,715,CSB2-0-4A-AP03.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/11,715,CSB2-2-4A-AP08.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/12,715,CSB2-0-4A-AP07.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/13,715,CSB2-1-4A-AP01.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/14,715,CSB2-1-4A-AP03.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/16,715,CSB2-1-4A-AP07.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/17,715,CSB2-0-4A-AP09-EXT.xcmmc.nhs.uk,Gig 0
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/19,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/21,77,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/22,77,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/23,77,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet2/0/24,trunk,CSB2-4A-switch9.xcmmc.nhs.uk,Gig 0/2
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet3/0/1,77,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet3/0/8,72,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet3/0/19,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet3/0/31,606,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet3/0/34,72,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet3/0/38,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet3/0/47,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet3/0/52,trunk,CSB1-2A-Switch1.xcmmc.nhs.uk,Gig 2/0/52
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/12,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/13,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/14,75,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/15,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/16,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/17,76,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/18,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/20,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/21,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/22,74,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/23,72,,
+CEN-CSB2-4A-ACCSW-STK.xcmmc.ns.uk,GigabitEthernet4/0/24,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch1.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch1.xcmmc.nhs.uk,FastEthernet0/7,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,FastEthernet0/11,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,FastEthernet0/13,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,FastEthernet0/14,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,FastEthernet0/16,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,FastEthernet0/37,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,FastEthernet0/39,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,FastEthernet0/43,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,FastEthernet0/46,74,,
+CSB2-4A-switch1.xcmmc.nhs.uk,GigabitEthernet0/1,trunk,CARE-ORC-DN1-DST-01.xcmmc.nhs.uk,TwentyFiveGigE1/0/16
+CSB2-4A-switch1.xcmmc.nhs.uk,GigabitEthernet0/2,trunk,CSB2-4A-switch2.xcmmc.nhs.uk,Gig 0/1
+CSB2-4A-switch10.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch10.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/1,77,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/2,77,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/3,77,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/4,77,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/5,73,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/6,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/7,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/9,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/10,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/11,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/13,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/15,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/17,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/18,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/19,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/20,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/23,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/24,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/26,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/27,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/28,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/32,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/35,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/36,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/37,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/38,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/39,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/40,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/41,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/44,74,,
+CSB2-4A-switch10.xcmmc.nhs.uk,FastEthernet0/45,77,,
+CSB2-4A-switch10.xcmmc.nhs.uk,GigabitEthernet0/1,trunk,CEN-CSB2-4A-ACCSW-STK.xcmmc.nhs.uk,Gig 1/0/24
+CSB2-4A-switch10.xcmmc.nhs.uk,GigabitEthernet0/2,trunk,CARE-ORC-DN2-DST-01.xcmmc.nhs.uk,TwentyFiveGigE1/0/6
+CSB2-4A-switch2.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch2.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/2,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/3,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/7,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/9,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/10,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/14,162,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/16,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/17,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/21,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/23,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/28,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/29,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/31,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/39,73,,
+CSB2-4A-switch2.xcmmc.nhs.uk,FastEthernet0/47,74,,
+CSB2-4A-switch2.xcmmc.nhs.uk,GigabitEthernet0/1,trunk,CSB2-4A-switch1.xcmmc.nhs.uk,Gig 0/2
+CSB2-4A-switch2.xcmmc.nhs.uk,GigabitEthernet0/2,trunk,CSB2-4A-switch3.xcmmc.nhs.uk,Gig 0/1
+CSB2-4A-switch3.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch3.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/2,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/3,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/10,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/11,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/13,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/18,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/20,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/24,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/26,77,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/27,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/29,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/30,77,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/31,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/32,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/33,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/37,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/38,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/39,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/40,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/41,74,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/43,77,,
+CSB2-4A-switch3.xcmmc.nhs.uk,FastEthernet0/45,77,,
+CSB2-4A-switch3.xcmmc.nhs.uk,GigabitEthernet0/1,trunk,CSB2-4A-switch2.xcmmc.nhs.uk,Gig 0/2
+CSB2-4A-switch3.xcmmc.nhs.uk,GigabitEthernet0/2,trunk,CSB2-4A-switch4.xcmmc.nhs.uk,Gig 0/1
+CSB2-4A-switch4.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch4.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch4.xcmmc.nhs.uk,FastEthernet0/6,74,,
+CSB2-4A-switch4.xcmmc.nhs.uk,FastEthernet0/13,74,,
+CSB2-4A-switch4.xcmmc.nhs.uk,FastEthernet0/24,74,,
+CSB2-4A-switch4.xcmmc.nhs.uk,FastEthernet0/25,74,,
+CSB2-4A-switch4.xcmmc.nhs.uk,FastEthernet0/39,74,,
+CSB2-4A-switch4.xcmmc.nhs.uk,FastEthernet0/40,74,,
+CSB2-4A-switch4.xcmmc.nhs.uk,FastEthernet0/41,74,,
+CSB2-4A-switch4.xcmmc.nhs.uk,FastEthernet0/42,74,,
+CSB2-4A-switch4.xcmmc.nhs.uk,FastEthernet0/46,74,,
+CSB2-4A-switch4.xcmmc.nhs.uk,GigabitEthernet0/1,trunk,CSB2-4A-switch3.xcmmc.nhs.uk,Gig 0/2
+CSB2-4A-switch4.xcmmc.nhs.uk,GigabitEthernet0/2,trunk,CSB2-4A-switch5.xcmmc.nhs.uk,Gig 0/1
+CSB2-4A-switch5.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch5.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch5.xcmmc.nhs.uk,FastEthernet0/17,74,,
+CSB2-4A-switch5.xcmmc.nhs.uk,FastEthernet0/19,74,,
+CSB2-4A-switch5.xcmmc.nhs.uk,FastEthernet0/22,74,,
+CSB2-4A-switch5.xcmmc.nhs.uk,FastEthernet0/23,77,,
+CSB2-4A-switch5.xcmmc.nhs.uk,GigabitEthernet0/1,trunk,CSB2-4A-switch4.xcmmc.nhs.uk,Gig 0/2
+CSB2-4A-switch5.xcmmc.nhs.uk,GigabitEthernet0/2,trunk,CSB2-4A-switch6.xcmmc.nhs.uk,Gig 0/1
+CSB2-4A-switch6.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch6.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch6.xcmmc.nhs.uk,FastEthernet0/1,73,,
+CSB2-4A-switch6.xcmmc.nhs.uk,FastEthernet0/2,73,,
+CSB2-4A-switch6.xcmmc.nhs.uk,FastEthernet0/3,74,,
+CSB2-4A-switch6.xcmmc.nhs.uk,FastEthernet0/4,74,,
+CSB2-4A-switch7.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch7.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch7.xcmmc.nhs.uk,FastEthernet0/1,73,,
+CSB2-4A-switch7.xcmmc.nhs.uk,FastEthernet0/2,73,,
+CSB2-4A-switch7.xcmmc.nhs.uk,FastEthernet0/3,73,,
+CSB2-4A-switch7.xcmmc.nhs.uk,FastEthernet0/4,73,,
+CSB2-4A-switch7.xcmmc.nhs.uk,FastEthernet0/5,73,,
+CSB2-4A-switch7.xcmmc.nhs.uk,FastEthernet0/6,74,,
+CSB2-4A-switch8.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch8.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/2,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/5,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/6,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/7,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/8,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/10,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/12,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/13,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/14,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/15,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/16,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/17,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/18,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/19,74,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/20,72,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/21,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/22,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/27,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/28,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/30,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/31,74,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/33,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/34,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/35,73,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/36,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/37,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/38,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/39,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/41,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/43,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/44,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/45,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/46,77,,
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/47,trunk,CSB2-4A-switch9.xcmmc.nhs.uk,Gig 0/1
+CSB2-4A-switch8.xcmmc.nhs.uk,GigabitEthernet1/0/48,trunk,CSB2-4A-switch7.xcmmc.nhs.uk,Gig 0/2
+CSB2-4A-switch9.xcmmc.nhs.uk,Vlan1,,,
+CSB2-4A-switch9.xcmmc.nhs.uk,Vlan254,,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/1,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/2,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/4,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/6,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/8,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/10,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/11,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/15,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/17,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/18,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/20,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/21,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/23,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/25,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/26,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/27,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/28,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/29,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/30,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/31,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/32,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/33,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/34,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/35,75,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/36,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/38,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/39,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/41,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/42,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/43,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/44,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/46,77,,
+CSB2-4A-switch9.xcmmc.nhs.uk,FastEthernet0/47,73,,
+CSB2-4A-switch9.xcmmc.nhs.uk,GigabitEthernet0/1,trunk,CSB2-4A-switch8.mft.nhs.uk,Gig 1/0/47
+CSB2-4A-switch9.xcmmc.nhs.uk,GigabitEthernet0/2,trunk,CEN-CSB2-4A-ACCSW-STK.xcmmc.nhs.uk,Gig 2/0/24
